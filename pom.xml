@@ -18,13 +18,13 @@
         <module>dto</module>
         <module>core-api</module>
         <module>utils</module>
+        <module>core</module>
     </modules>
 
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <optional>true</optional>
         </dependency>
     </dependencies>
 
